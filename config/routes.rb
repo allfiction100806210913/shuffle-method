@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   resources :opens
   resources :riffles
   resources :farrows
+  
 end
